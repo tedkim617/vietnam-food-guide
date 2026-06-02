@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8ef"/><stop offset="1" stop-color="#dceee5"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <circle cx="600" cy="335" r="120" fill="#0f6b5f" opacity=".15"/>
+  <text x="600" y="355" font-family="Arial, sans-serif" font-size="70" text-anchor="middle">🍜</text>
+  <text x="600" y="455" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#173b35" text-anchor="middle">Viet Menu Guide</text>
+</svg>

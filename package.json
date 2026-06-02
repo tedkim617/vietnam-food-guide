@@ -1,0 +1,12 @@
+{
+  "name": "vietnam-food-guide",
+  "version": "1.0.0",
+  "description": "Mobile-first Vietnamese food ordering guide for foreigners with admin updates.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node server/selftest.js"
+  },
+  "keywords": ["vietnam", "food", "pwa", "travel", "ordering-guide"],
+  "license": "MIT"
+}
