@@ -1,9 +1,0 @@
-{
-  "name":"Viet Menu Guide",
-  "short_name":"Viet Menu",
-  "start_url":"/",
-  "display":"standalone",
-  "background_color":"#fff8ef",
-  "theme_color":"#0f6b5f",
-  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]
-}
